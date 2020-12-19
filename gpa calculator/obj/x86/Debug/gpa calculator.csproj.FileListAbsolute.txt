@@ -1,0 +1,6 @@
+c:\users\tabish\documents\visual studio 2010\Projects\gpa calculator\gpa calculator\bin\Debug\gpa calculator.exe
+c:\users\tabish\documents\visual studio 2010\Projects\gpa calculator\gpa calculator\bin\Debug\gpa calculator.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\gpa calculator\gpa calculator\obj\x86\Debug\gpa calculator.exe
+c:\users\tabish\documents\visual studio 2010\Projects\gpa calculator\gpa calculator\obj\x86\Debug\gpa calculator.pdb
+C:\Users\Tabish\Desktop\pf lec\gpa calculator\gpa calculator\obj\x86\Debug\gpa calculator.exe
+C:\Users\Tabish\Desktop\pf lec\gpa calculator\gpa calculator\obj\x86\Debug\gpa calculator.pdb

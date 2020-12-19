@@ -1,0 +1,9 @@
+c:\users\tabish\documents\visual studio 2010\Projects\for+while loop\for+while loop\bin\Debug\for+while loop.exe
+c:\users\tabish\documents\visual studio 2010\Projects\for+while loop\for+while loop\bin\Debug\for+while loop.pdb
+c:\users\tabish\documents\visual studio 2010\Projects\for+while loop\for+while loop\obj\x86\Debug\for+while loop.exe
+c:\users\tabish\documents\visual studio 2010\Projects\for+while loop\for+while loop\obj\x86\Debug\for+while loop.pdb
+C:\Users\Tabish\Desktop\pf lec\for+while loop\for+while loop\obj\x86\Debug\for+while loop.exe
+C:\Users\Tabish\Desktop\pf lec\for+while loop\for+while loop\obj\x86\Debug\for+while loop.pdb
+C:\Users\Tabish\Desktop\pf lec\for+while loop\for+while loop\bin\Debug\for+while loop.exe
+C:\Users\Tabish\Desktop\pf lec\for+while loop\for+while loop\bin\Debug\for+while loop.pdb
+C:\Users\Tabish\Desktop\pf lec\for+while loop\for+while loop\obj\x86\Debug\for+while loop.csprojResolveAssemblyReference.cache
